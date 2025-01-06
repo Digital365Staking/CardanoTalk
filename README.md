@@ -111,4 +111,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Community
 
-Join the discussion on [GitHub Discussions](https://github.com/yourusername/CardanoTalk/discussions) or follow us on social media for updates!
+Join the discussion on [GitHub Discussions](https://www.linkedin.com/posts/adrien-falconnet-805633299_creating-a-decentralized-alternative-to-twitter-activity-7281642095516278785-1QAH?utm_source=share&utm_medium=member_desktop) or follow us on social media for updates!
